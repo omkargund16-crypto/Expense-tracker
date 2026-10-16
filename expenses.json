@@ -1,0 +1,7 @@
+{
+	"budget":	10000,
+	"expenses":	[{
+			"name":	"shop",
+			"amount":	800
+		}]
+}
